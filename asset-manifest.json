@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.1a2c1f7f.chunk.css",
+    "main.js": "/react-ecommerce/static/js/main.5decc647.chunk.js",
+    "main.js.map": "/react-ecommerce/static/js/main.5decc647.chunk.js.map",
+    "runtime-main.js": "/react-ecommerce/static/js/runtime-main.d69b3fff.js",
+    "runtime-main.js.map": "/react-ecommerce/static/js/runtime-main.d69b3fff.js.map",
+    "static/js/2.3729ca46.chunk.js": "/react-ecommerce/static/js/2.3729ca46.chunk.js",
+    "static/js/2.3729ca46.chunk.js.map": "/react-ecommerce/static/js/2.3729ca46.chunk.js.map",
+    "static/js/3.ab36cace.chunk.js": "/react-ecommerce/static/js/3.ab36cace.chunk.js",
+    "static/js/3.ab36cace.chunk.js.map": "/react-ecommerce/static/js/3.ab36cace.chunk.js.map",
+    "index.html": "/react-ecommerce/index.html",
+    "static/css/main.1a2c1f7f.chunk.css.map": "/react-ecommerce/static/css/main.1a2c1f7f.chunk.css.map",
+    "static/js/2.3729ca46.chunk.js.LICENSE.txt": "/react-ecommerce/static/js/2.3729ca46.chunk.js.LICENSE.txt",
+    "static/media/a (1).edd7bce2.jfif": "/react-ecommerce/static/media/a (1).edd7bce2.jfif",
+    "static/media/a (2).65811051.jpg": "/react-ecommerce/static/media/a (2).65811051.jpg",
+    "static/media/a (3).54473af0.jpg": "/react-ecommerce/static/media/a (3).54473af0.jpg",
+    "static/media/a (5).f4d58630.jpg": "/react-ecommerce/static/media/a (5).f4d58630.jpg",
+    "static/media/a1.0b1b840d.jpg": "/react-ecommerce/static/media/a1.0b1b840d.jpg",
+    "static/media/a2.174efe65.jpg": "/react-ecommerce/static/media/a2.174efe65.jpg",
+    "static/media/a3.e08c1713.jfif": "/react-ecommerce/static/media/a3.e08c1713.jfif",
+    "static/media/a4.62a239a0.jfif": "/react-ecommerce/static/media/a4.62a239a0.jfif",
+    "static/media/a5.d533bcf1.jfif": "/react-ecommerce/static/media/a5.d533bcf1.jfif",
+    "static/media/a6.118f544b.jpg": "/react-ecommerce/static/media/a6.118f544b.jpg",
+    "static/media/heroman2.4fc6372b.jpg": "/react-ecommerce/static/media/heroman2.4fc6372b.jpg",
+    "static/media/logo.39de76f5.png": "/react-ecommerce/static/media/logo.39de76f5.png",
+    "static/media/remera2.1ede3bd6.jpg": "/react-ecommerce/static/media/remera2.1ede3bd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d69b3fff.js",
+    "static/js/2.3729ca46.chunk.js",
+    "static/css/main.1a2c1f7f.chunk.css",
+    "static/js/main.5decc647.chunk.js"
+  ]
+}
